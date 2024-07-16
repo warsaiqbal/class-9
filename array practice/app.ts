@@ -2,7 +2,7 @@
 let icecreamFlavors = ["chocolate", "kulfa", "pista", "cheesecake"]
 // console.log(icecreamFlavors);
 
-//a. for adding and subtracting elements from loop
+//a. for adding and subtracting elements from array
 
 //1. push: for adding element
 icecreamFlavors.push("crunch")
